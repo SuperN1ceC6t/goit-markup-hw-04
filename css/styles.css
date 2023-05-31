@@ -173,7 +173,7 @@ ol {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office\ 1.jpg);
+    url(../images/people-office1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -457,6 +457,7 @@ ol {
   color: #f4f4fd;
   width: 264px;
   margin-bottom: 16px;
+  margin-top: 0;
 }
 
 .footer-item-logo {
@@ -489,6 +490,7 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   margin-bottom: 16px;
+  margin-top: 0;
 }
 .footer-soc-list {
   display: flex;
