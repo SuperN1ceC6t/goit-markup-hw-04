@@ -456,6 +456,7 @@ ol {
   line-height: 24px;
   color: #f4f4fd;
   width: 264px;
+  margin-bottom: 16px;
 }
 
 .footer-item-logo {
@@ -478,10 +479,9 @@ ol {
   text-transform: uppercase;
   margin-right: 76px;
   display: inline-block;
-  margin-bottom: 16px;
   text-decoration: none;
 }
-.footer-soc-header {
+.footer-soc-p {
   color: var(--color4);
   font-style: normal;
   font-weight: 500;
